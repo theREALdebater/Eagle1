@@ -6,6 +6,10 @@ by Nick Roberts, March 2021
 
 ### To Run
 
+Build and run (debug) as `WebApplication` in Visual Studio, 
+
+OR:
+
  1. Build using MSBUILD
  2. Open a shell and CD to the output directory
  3. Check that the CSV files are in subdirectory "Data" of the current directory
